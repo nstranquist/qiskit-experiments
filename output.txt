@@ -1,0 +1,8 @@
+exact expected value:   0.5695
+exact delta value:      0.9291
+Exact value:            0.5695
+Estimated value:        0.5690
+Confidence interval:    [0.5596, 0.5784]
+Exact delta:            0.9291
+Estimated value:        0.9280
+Confidence interval:    [0.9262, 0.9299]
